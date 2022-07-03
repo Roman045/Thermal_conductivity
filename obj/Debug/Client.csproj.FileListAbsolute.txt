@@ -1,0 +1,90 @@
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\bin\Debug\thermal_conductivity.exe.config
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\bin\Debug\thermal_conductivity.exe
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\bin\Debug\thermal_conductivity.pdb
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\bin\Debug\Tao.FreeGlut.dll
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\bin\Debug\Tao.OpenGl.dll
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\bin\Debug\Tao.Platform.Windows.dll
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\bin\Debug\Tao.FreeGlut.xml
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\bin\Debug\Tao.OpenGl.xml
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\bin\Debug\Tao.Platform.Windows.xml
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\obj\Debug\thermal_conductivity.Form1.resources
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\obj\Debug\thermal_conductivity.Properties.Resources.resources
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\obj\Debug\Client.csproj.CopyComplete
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\obj\Debug\thermal_conductivity.exe
+D:\Обучение\Операционные системы\thermal_conductivity_OpenMP\obj\Debug\thermal_conductivity.pdb
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\bin\Debug\thermal_conductivity.exe.config
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\bin\Debug\thermal_conductivity.exe
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\bin\Debug\thermal_conductivity.pdb
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\bin\Debug\Tao.FreeGlut.xml
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\bin\Debug\Tao.OpenGl.xml
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\bin\Debug\Tao.Platform.Windows.xml
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\obj\Debug\thermal_conductivity.Form1.resources
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\obj\Debug\thermal_conductivity.Properties.Resources.resources
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\obj\Debug\Client.csproj.CopyComplete
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\obj\Debug\thermal_conductivity.exe
+D:\Обучение\Операционные системы\thermal_conductivity\thermal_conductivity_OpenMP\obj\Debug\thermal_conductivity.pdb
+D:\Обучение\Операционные системы\thermal_conductivity\bin\Debug\thermal_conductivity.exe.config
+D:\Обучение\Операционные системы\thermal_conductivity\bin\Debug\thermal_conductivity.exe
+D:\Обучение\Операционные системы\thermal_conductivity\bin\Debug\thermal_conductivity.pdb
+D:\Обучение\Операционные системы\thermal_conductivity\bin\Debug\Tao.FreeGlut.dll
+D:\Обучение\Операционные системы\thermal_conductivity\bin\Debug\Tao.OpenGl.dll
+D:\Обучение\Операционные системы\thermal_conductivity\bin\Debug\Tao.Platform.Windows.dll
+D:\Обучение\Операционные системы\thermal_conductivity\bin\Debug\Tao.FreeGlut.xml
+D:\Обучение\Операционные системы\thermal_conductivity\bin\Debug\Tao.OpenGl.xml
+D:\Обучение\Операционные системы\thermal_conductivity\bin\Debug\Tao.Platform.Windows.xml
+D:\Обучение\Операционные системы\thermal_conductivity\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Обучение\Операционные системы\thermal_conductivity\obj\Debug\thermal_conductivity.Form1.resources
+D:\Обучение\Операционные системы\thermal_conductivity\obj\Debug\thermal_conductivity.Properties.Resources.resources
+D:\Обучение\Операционные системы\thermal_conductivity\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Обучение\Операционные системы\thermal_conductivity\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Обучение\Операционные системы\thermal_conductivity\obj\Debug\Client.csproj.CopyComplete
+D:\Обучение\Операционные системы\thermal_conductivity\obj\Debug\thermal_conductivity.exe
+D:\Обучение\Операционные системы\thermal_conductivity\obj\Debug\thermal_conductivity.pdb
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\obj\Debug\thermal_conductivity.Form1.resources
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\obj\Debug\thermal_conductivity.Properties.Resources.resources
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\obj\Debug\thermal_conductivity.exe
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\obj\Debug\thermal_conductivity.pdb
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\bin\Debug\thermal_conductivity.exe.config
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\bin\Debug\thermal_conductivity.exe
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\bin\Debug\thermal_conductivity.pdb
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\bin\Debug\Tao.FreeGlut.xml
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\bin\Debug\Tao.OpenGl.xml
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\bin\Debug\Tao.Platform.Windows.xml
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity\obj\Debug\Client.csproj.CopyComplete
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\bin\Debug\thermal_conductivity.exe.config
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\bin\Debug\thermal_conductivity.exe
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\bin\Debug\thermal_conductivity.pdb
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\bin\Debug\Tao.FreeGlut.xml
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\bin\Debug\Tao.OpenGl.xml
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\bin\Debug\Tao.Platform.Windows.xml
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\obj\Debug\Client.csproj.AssemblyReference.cache
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\obj\Debug\thermal_conductivity.Form1.resources
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\obj\Debug\thermal_conductivity.Properties.Resources.resources
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\obj\Debug\Client.csproj.GenerateResource.cache
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\obj\Debug\Client.csproj.CoreCompileInputs.cache
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\obj\Debug\Client.csproj.CopyComplete
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\obj\Debug\thermal_conductivity.exe
+D:\Обучение\Операционные системы\Новая папка (2)\thermal_conductivity_ClientServer\obj\Debug\thermal_conductivity.pdb
+E:\Операционные системы\thermal_conductivity_ClientServer\bin\Debug\thermal_conductivity.exe.config
+E:\Операционные системы\thermal_conductivity_ClientServer\bin\Debug\thermal_conductivity.exe
+E:\Операционные системы\thermal_conductivity_ClientServer\bin\Debug\thermal_conductivity.pdb
+E:\Операционные системы\thermal_conductivity_ClientServer\bin\Debug\Tao.FreeGlut.xml
+E:\Операционные системы\thermal_conductivity_ClientServer\bin\Debug\Tao.OpenGl.xml
+E:\Операционные системы\thermal_conductivity_ClientServer\bin\Debug\Tao.Platform.Windows.xml
+E:\Операционные системы\thermal_conductivity_ClientServer\obj\Debug\Client.csproj.AssemblyReference.cache
+E:\Операционные системы\thermal_conductivity_ClientServer\obj\Debug\thermal_conductivity.Form1.resources
+E:\Операционные системы\thermal_conductivity_ClientServer\obj\Debug\thermal_conductivity.Properties.Resources.resources
+E:\Операционные системы\thermal_conductivity_ClientServer\obj\Debug\Client.csproj.GenerateResource.cache
+E:\Операционные системы\thermal_conductivity_ClientServer\obj\Debug\Client.csproj.CoreCompileInputs.cache
+E:\Операционные системы\thermal_conductivity_ClientServer\obj\Debug\Client.csproj.CopyComplete
+E:\Операционные системы\thermal_conductivity_ClientServer\obj\Debug\thermal_conductivity.exe
+E:\Операционные системы\thermal_conductivity_ClientServer\obj\Debug\thermal_conductivity.pdb
