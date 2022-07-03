@@ -27,7 +27,7 @@ namespace ServerForum
         {
             get { return _handler; }
         }
-        private double mu1(double y, double t) { return 1; }
+        private double mu1(double y, double t) { return 10; }
         private double mu2(double y, double t) { return 0; }
         private double mu3(double y, double t) { return 0; }
         private double mu4(double y, double t) { return 0; }

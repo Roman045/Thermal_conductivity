@@ -5,3 +5,10 @@ E:\Операционные системы\thermal_conductivity_ClientServer\Ser
 E:\Операционные системы\thermal_conductivity_ClientServer\Server_Parallel\obj\Debug\Server_Parallel.csproj.CoreCompileInputs.cache
 E:\Операционные системы\thermal_conductivity_ClientServer\Server_Parallel\obj\Debug\Server_Parallel.exe
 E:\Операционные системы\thermal_conductivity_ClientServer\Server_Parallel\obj\Debug\Server_Parallel.pdb
+D:\GitHub\Thermal_conductivity\Server_Parallel\bin\Debug\Server_Parallel.exe.config
+D:\GitHub\Thermal_conductivity\Server_Parallel\bin\Debug\Server_Parallel.exe
+D:\GitHub\Thermal_conductivity\Server_Parallel\bin\Debug\Server_Parallel.pdb
+D:\GitHub\Thermal_conductivity\Server_Parallel\obj\Debug\Server_Parallel.csproj.AssemblyReference.cache
+D:\GitHub\Thermal_conductivity\Server_Parallel\obj\Debug\Server_Parallel.csproj.CoreCompileInputs.cache
+D:\GitHub\Thermal_conductivity\Server_Parallel\obj\Debug\Server_Parallel.exe
+D:\GitHub\Thermal_conductivity\Server_Parallel\obj\Debug\Server_Parallel.pdb
